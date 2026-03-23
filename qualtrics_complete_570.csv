@@ -1,0 +1,1012 @@
+sentence_text,original_row_index,List_Group,Condition,Direction,Source_File,Source_Type
+Kal FF chahiye to aaj pay kar dena.,,1,English_Translation,Human_Ref,,Gold_Injection
+abe teri tareef kiya ki tu musical instrument achche bajata hai,,1,English_Translation,Human_Ref,,Gold_Injection
+tu apne manifesto ki chinta kar�,,1,English_Translation,Human_Ref,,Gold_Injection
+"chunki maana jaata hai ki woh gareebon ke paax mein bolte hain, isliye unki aawaz zyada suni jaati hai. 
+",1.0,1,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"Rajinder Singh Bedi kaafi-kaafi ghanta Vira ji ke sirahaane aakar baithte rahte aur Vira ji ke saath unki bimari ke vishay mein vinood karte rahte.  
+",28.0,1,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"iskee madhyam se membership ka pratisthan tatha samaaj ka bhoothik anurakshan jaise hota hai.  
+",17.0,1,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"bachchon se poochho apne bade logo se paas ke gaon ya shehar ke naam.  
+",26.0,1,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"Moreover, he also gave Gandhi the permission to conduct the inquiry. 
+
+
+
+",11.0,1,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"through it, membership is replaced aur society ka physical maintenance ho jata hai. 
+
+
+",17.0,1,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"lekin sab logon ko abhi ye baat junchi nahi ki ekta ka matlab sirf rajneetik ekta nahi hai.  
+",2.0,1,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"karmachari ke contract ki sammti par uski sevaan radd kar di gai.  
+",8.0,1,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"Bharat ka Bangla Desh ki seema mein 17,000 ekadere kshetrafal vale 111 parikshetron par daava hai.  
+",27.0,1,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"the employee ka services contract ke khatam hone ke baad terminated ho gaye.  
+",8.0,1,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"if hum ab qurbani karenge toh hamare bhavishya ke pitaa-pootra faida uthayege.  
+",15.0,1,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"you still job khatam hone ke baad bhi Jobseeker Allowance liyega.  
+",14.0,1,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"Small chirdiya, gillihary and mice bne hain for the cat's diet. 
+
+
+
+",12.0,1,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Through it, sadasyata ka pratiasthan hota hai aur samaj ka physical maintenance sunischt hai. 
+
+
+
+",17.0,1,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Long waali aarthik depression ke chalne se aadmi ko khatinaiyyaan degi. 
+
+
+",21.0,1,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"pehle bolne ka yeh hesitancy mere liye duhkhar tha, ab woh sukhkar ho gaya hai. 
+
+
+
+",3.0,1,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"chotti chiriya, gillihari aur chuhe to jaise bhelly ke liye specially created appear. 
+
+
+
+",12.0,1,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"Long time tak chalne wali economic depression ka aadmi ki hardship badha degi. 
+
+
+
+",21.0,1,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"iske alaavaa, unhone Ghandhi ji ko jaanch karni kee anumati bhee dee.",11.0,1,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"jahan raja aur desh saman ho, wahan vikalp ka prashn hee nahi uthata.",10.0,1,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+saat vahan pahunchana bachchon se kahiye ki apne badeon se aaspaas ke gaonon aur sheheron ke naam poochh kar aayein.,26.0,1,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+data integrity test soon after disc insert hoga.,19.0,1,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+bachchon ko apne bade logon se pehle wale gaon ya shahar ke naam puchhne ke liye kahen.,26.0,1,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+ve log kai vocational programmes chalate hain jinki duration alag-alag skills ke hisaab se hoti hai.,4.0,1,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"jin jagah raja aur desh saman hain, vahan vikalp ka prashn hee nahin uthata.",10.0,1,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"my pyare deshwaasiyon, yah kaha jata hai ki shiksha badh rahi hai.",24.0,1,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+there ek ke baad ek sabhi rajaon aur raja Kumaron ne machli par nishana sathan ke ka prayaas kiya kintu safalta haath nahi laga.,30.0,1,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+system ek responsible media aur ek vigilant society par nirbhar karta hai.,23.0,1,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"mere bolne ki takleef, jo ek bar ek nuksaan tha, ab khushi hai.",3.0,1,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+bachchon se apne viddyo ke logon se puchhna kya hai ki aas-paas ke village ya town ka naam kya hai.,26.0,1,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"Adhikar se, system nirbhar hai ek jimmedaar media aur ek satark samaj par.",23.0,1,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"Mujhe bolne mein पहले दुःखकर lagta tha, lekin ab yeh सुखकर lagta hai.",3.0,1,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"A few MT systems Japan-koriya, English-koriya ki सीमित विकसित प्रणालियां ho chuki hain.",18.0,1,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+long economic depression ka extreme effect man ke life par lagu hoga aur uski hardship bahut badh jayegi.,21.0,1,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+wahan ek ke baad ek sabhi rajaon aur raja ko fish par nishana sadhne ka prayas kiya kintu safalta haath nahin lagee.,30.0,1,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"January, 1943 mein unhone 26 announced se independence day ke baad new programmes launch karne ki announcement ki.",16.0,1,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+ye english-hindi-english dictionary mein aap aasanii se hindi aur english shabdon ka arth dhundh sakte hain.,22.0,1,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+pichli trimahi ke doora kitam vastar swikaraya sima ke antargat hee thee.,20.0,1,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"ab yaad hai, yeh process ke bas darshan ka pratinidhi kar rahe hain.",13.0,1,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+raaja aur desh ek ho toh koi alternative ka sawal hi nahin hota.,10.0,1,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+data integrity test *chale ga* jab hi disc daal jae.,19.0,1,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+price spread last quarter me acceptable range ke within rahi thi.,20.0,1,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+karmachari ke karar ki samapti par uski sevaen radh kar di gayi.,8.0,1,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"yeh kee jaan pee jaati hai ke unkaa baat gaareebon ke liye hota hai, isliye unki aavaz zyaada sunii jaati hai.",1.0,1,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"choti chidiya, gilhari aur chuhe toh billee ke liye hi bane hain.",12.0,1,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"aur theek hai, ismey chaar museum, ek sculpture park aur ek open-air amphitheatre bhi shamil hain.",5.0,1,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"meeting mein, applicant ne yeh maang liya ki wo Krishan Sikand se chhod jaaye.",29.0,1,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"ab to ye sirf dikkat ka ek visual representation hee hai, samajh lo.",13.0,1,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+kiyat ka vistan pichli timahi me swikarya siima ke andr raha tha.,20.0,1,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+This value represents the burning dhvajon ke tarah ke sandarbh mein pichli baar pryukt hua jalte mana karta hai.,6.0,1,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"incident ke baad, Upara ke ladke aur ladkiyon ne meri taraf respect ke saath lagaya.",9.0,1,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"jise hi koi write karne wala disc inserted ho jaye, data integrity test shuru ho jayegi.",19.0,1,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+ye medium se membership ko replace karke samaj ka physical maintenance bhi ensured hota hai.,17.0,1,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+choti birds aur squirrels to maine billi ke liye hi appear karke lagti hain.,12.0,1,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+ladkiya phir fail ho gaye... boys are toppers,,2,English_Translation,Human_Ref,,Gold_Injection
+"Waise Shiv ji ki anniversary bhi hai aaj, unko tribute bhi hogaya aur apne India team ke batsmen ko bhi. Bahot hi gehra tweet!",,2,English_Translation,Human_Ref,,Gold_Injection
+tu bi this thread karne laga bhai?,,2,English_Translation,Human_Ref,,Gold_Injection
+"ye rashtaron ke kutneetik sambandhon ke beech kirkiri saabit ho sakti hai. 
+",25.0,2,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"january 1943 mein unhone 26 tarikh swadheenata divas se naye karyakram shuru karne ki ghoosna ki.  
+",16.0,2,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"negative payment balance vikasheel deshon mein ek common trend hai.  
+",7.0,2,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"and because they supposedly bolte hain for the gareeb their aawaz gets heard more. 
+",1.0,2,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"okay.  
+",13.0,2,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"it can become irritant in the diplomatic relations between nations. 
+
+
+
+",25.0,2,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"iske alava, yeh vyavastha jimmedar media aur satark samaj par nirbhar hai.  
+",23.0,2,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"chunki maana jaata hai ki ve gareebon ke paax mein bolte hain, isliye unki aawaz zyada suni jaati hai.  
+",1.0,2,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"lambaa samay tak chalne wali aarthik mandi aam aadmi ki kathinaaiyan badha degi.  
+",21.0,2,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"data integrity test jab disc lagayenge tab se shuru hoga.  
+",19.0,2,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"system ko ek responsible media aur ek vigilant society par depend karta hai. 
+
+
+
+",23.0,2,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"my countrymen, yeh kaha hai ki seekhna growing hai.  
+",24.0,2,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"भारत दावा करता है 111 परिक्षेत्रों वाले एकड़े 17,000 क्षेत्रफल बांग्लदेश सीमा में फैले हुए हैं. 
+
+
+
+",27.0,2,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"bachaon ko  aaspaas gaonon ke naam  pur  badon se poochh kahin. 
+
+
+
+",26.0,2,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Now remember, these are just bus drshi pratiNidhItv of the process. 
+
+
+
+",13.0,2,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"saath wahan pahunchna bacchon se kahiye ki apne bado se aaspaas ke gaon aur shaharon ke naam pooch kar aayen. 
+
+
+
+",26.0,2,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"India ka Bangladesh ki seema mein 17,000 acres spread territory  wale 111 parikshetron par claims hai. 
+
+
+
+",27.0,2,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"lekin sab logon ko abhi ye baat janchhi nahi ki ekta ka matlab sirf rajneetik ekta nahi hai. 
+
+
+
+",2.0,2,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"Bharat ka Bangladesh ki seema mein 17,000 acre ka kshetrafal wala 111 parikshetron par dava hai.",27.0,2,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+data integrity check start ho jayegi jaise hi koi write able disk daalne yogy hoti hai.,19.0,2,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"any other attractions meh chaar museum, ek sculpture ground aur ek open air ka stage shamil hain.",5.0,2,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+aur ve poor ke liye bolte hain isliye unki aawaz zyada suni jaati hai.,1.0,2,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+Is website ne English se Hindi dictionary aur Hindi se English dictionary dono provide karta hai.,22.0,2,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+mere bolne mein dikhayi di jani wali dardbhar hui baat ab khushi hai.,3.0,2,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+iske madhyam se membership ka pratisthan aur samaj ka bhautik anurakshan sunishchit hota hai.,17.0,2,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+last quarter ke dauran price expansion acceptable limit ke andar hi thi.,20.0,2,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+Data verification start ho jayegi jaise hi koi writable disk daal jati hai.,19.0,2,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"chhote birds, bharal aur chhote chhipkaliyon ko lagta hai ki ve khaton ke diet ke liye vishesh roop se banaye gaye hain.",12.0,2,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+aglaa dora ek baraa badlaav karne se aaj ke haal ke bachchon ko aage ki suvidhaayein milengi.,15.0,2,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+mere deshwaalon ko kahaa hai ki seekhnaa badlaavaa hai.,24.0,2,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+Adverse प्रतिकूल संतुलन of payment भुगतान is a सामान्य प्रवृत्ति in विकासशील countries.,7.0,2,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"Iske alaava, unhone Gandhi ji ko करने की अनुमति दी कि वो जाँच करे.",11.0,2,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"Mere pyare deshvasiyon, iske baare mein kahaa hai ki shiksha badh rahi hai.",24.0,2,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+Ask children ko apne elders se ask karna hai ki apne around ke villages aur cities ke names find karke aaye.,26.0,2,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+iske madhyam se membership ka pratisthan aur samaj ka bhautik anurakshan ensured hota hai.,17.0,2,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"Additionally, this system depends on responsible media aur vigilant society par.",23.0,2,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+yeh incident ke baad city ke ladke mujhe dhadakane lage.,9.0,2,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+aap ko phir se aap ke jobse ek baar aur 's allotment ke liye arji bharni pad sakti hai jab aap apni naukri samapt kar de.,14.0,2,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+baithak mein appealarthi ne anurodh kiya hai ki use krishn sikand chhod dena chahiye.,29.0,2,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+yeh site English se Hindi aur Hindi se English ke liye dictionary de sakti hai.,22.0,2,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+system par depend karti hai ek jawaabdaar media aur ek chalaane wala samaj.,23.0,2,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"India ka claim hai 111 enclaves, jo 17,000 acre se zyaada bharat ke territory mein hain, lekin Bangladesh ke aapne area mein hain.",27.0,2,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+yeh vyavastha jimmadar media aur satark samaj par nirbhar hai.,23.0,2,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+ye medium se member-ship ka replacement aur samaj ka bhautik aurusthan kaam karte hain.,17.0,2,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"isake alawa, unhen gandhiji ko jaanch karne ki anumati bhi di.",11.0,2,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"a few machine translation (MT) systems like Japan to Korea, English to Korea, have been developed for limited vocabulary.",18.0,2,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"Rajinder Singh Bedi used to to aana aur saath hona, aur usko comfort dena.",28.0,2,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"""meri pyar ki deshvasiyonah, kahi hai ki shikshan hi progress hai.""",24.0,2,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+baccchon se pooch ke aapke baadon se aaspaas ke saat gaawoon ke naam aayein.,26.0,2,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+meeting mein apilarthi ne krishan sikand ko jaane ka anurodh kiya tha.,29.0,2,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"If hum aaj de te hain, toh aane wali peechee kaise naa milengee.",15.0,2,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+Jobseeker banne ke liye aapko fir bhi aapki naukri khatam ho jane ke baad aapko arji bharni pad sakti hai.,14.0,2,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"paranthe sab logon ko abhi yeh baat samajh nahi ki unity ka matlab sirf political unity hi nahi hai, balki yeh **imposed** ho sakta hai.",2.0,2,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+Rajinder Singh Bedi ne vīra jī ke saath bahut saare ghante āke baith ke rahte the aur unke saath together their illness ke baare mein jokes karte rahte.,28.0,2,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+Koi bhi button press karo vote.,,3,English_Translation,Human_Ref,,Gold_Injection
+"parents ko bolo boyfriend dhund de  ,  fir no family problems!",,3,English_Translation,Human_Ref,,Gold_Injection
+apni kisi frnd ki help le ya sb thik ho jayega  . ,,3,English_Translation,Human_Ref,,Gold_Injection
+"ab yaad hai, yeh process ke bas drshi pratinidhitv kar rahe hain. 
+",13.0,3,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"baithak mein appeal-arthee ne anekha kiya hai ki usse krishna sikand chhod dena chahiye 
+",29.0,3,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"par is hadees ke karan shahar ke ladke mujhe bhaav dene lage. 
+",9.0,3,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"agar hum ab qurbani karenge toh hamara bhavishya peedhi  fayda uthayegi.  
+",15.0,3,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"you will still have to claim jobseeker allowance again jab tumhara job khatam hoga. 
+
+
+
+",14.0,3,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"this value represent the burning flags that were use in such a context the last time. 
+
+
+
+",6.0,3,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"yedi hum aaj kurbani dete hain to uska fayda aane wali piddi ko milta hai.  
+",15.0,3,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"yeh rashtaron ke kutneetik sambandhon ke beech kirkiri saabit ho sakti hai. 
+
+
+
+",25.0,3,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"ab yaad hai, yeh process ke bas drshi pratibhed kar rahe hain.  
+",13.0,3,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"meeting mein appellant ne kaha ki woh Krishan Sikand se chali jaaye.  
+",29.0,3,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"now hi  reward of goodness keval goodness hee hoga. 
+
+
+
+",13.0,3,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"Price spread last quarter mein tolerable limit mein tha.  
+",20.0,3,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"In January 1943 he announced his naye  swadheenata ghoṣaṇa divas se shuru karyakram to be launched from 26 January. 
+
+
+
+",16.0,3,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Many raajaan try to shoot ek nishaana but were unsuccessful. 
+
+
+
+",30.0,3,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Where raja aur desh coincide there is no question of an alternative. 
+
+
+
+",10.0,3,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"ye maan jalte dhvajon ka prati nithav karta hai jo ki is tarah ke sambandh mein last time used the. 
+
+
+",6.0,3,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"par is ghatna ke karan shahar ke ladke mujhe regarded karne lage. 
+
+
+
+",9.0,3,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"इसके अतिरिक्त, unhone Gandhi ko conduct karne ki permission bhi di. 
+
+
+
+",11.0,3,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+but sab logon ko abhi ye baat jeenchee nahi ki ekta ka matlab sirf rajneetik ekta nahi hai.,2.0,3,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"chunkee mana jata hai ki ve gareebon ke paksh mein bolte hain, isliye unki awaaz adhik suni jati hai.",1.0,3,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"some systems Japan-Korea, English-Korea developed hain limited vocabulary ke liye.",18.0,3,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+price spread last quarter me tolerable limit ke andar tha.,20.0,3,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+King aur desh mil jate hai to alternative ka koi sawal hi nahin hai.,10.0,3,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+media aur samaj ki jaagrukta par is system ka adhaar hai.,23.0,3,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+employee ka contract ki samapti par uski sevaaen radd kar di gayi.,8.0,3,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+meeting mein applicant ne request kiya hai ki use Krishna Sikand chhod dena chahiye,29.0,3,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"India ka Bangladesh ki simeen mein 17,000 ekada kshetraphal wale 111 parikshetron par dava hai.",27.0,3,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+yeh international relations me ek irritation ban sakta hai.,25.0,3,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"Jahaan king aur desh milte hain, vahin koi alternative ka sawaal nahin hai.",10.0,3,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+ab aapko yeh baat yaad rakhna hoga.,13.0,3,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+Rajinder Singh Bedi use karte the ve ghante vira se unke saath bithake aur unki bimari ke liye unhe console karte the.,28.0,3,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"India दावा करती है कि 111 परिक्षेत्रों पर 17,000 एकड़े क्षेत्रफल पर बांग्लदेश सीमा में फैले हुए हैं।",27.0,3,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+Small छोटी चिड़िया aur gilhariyon aur mice banne ke liye cat ki diet ke liye vishesh roop se paida hui hain.,12.0,3,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"chūnkī mānā jātā hai ki ve garībōṁ ke paśak mein bolte hain, isliye unki āvāj more supposedly sunī jāti hai.",1.0,3,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+yeh maaan last time ka value represents ki is tarah ke sandarbhe meh used hue the.,6.0,3,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"This diplomatic relations ke beech mein irritant hain, jo kai nations ke beech taklaaf hokar sambhav hain.",25.0,3,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+antipathik bhugtan sankalan vikasvil deshon mein ek samany pravritti hai.,7.0,3,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"jabki unko garibon ke paksh mein bolne ka maana jata hai, isliye unki aavaz adhik suni jati hai.",1.0,3,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+long-term economic recession will increase difficulties for common man.,21.0,3,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"aur iske saath, wo Gandhi ko janta sancharan karne ka permission bhi de diya.",11.0,3,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"baad mein, Upara ke ladke aur ladkiyaa merii taraf se prashansaa se dekhne lage.",9.0,3,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"choti chidiya, chuhhe aur moose lagte hain ke unhe bachchon ko khane ke liye khas banaya gaya hai.",12.0,3,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+yeh maan jalte dhvajon ka pratinidhit karte hain jo ki is tarah ke sandarbh mein pehle baar prayukt the mein.,6.0,3,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"jab hi koi likhne wali disk daal jaati hai, data integrity check start ho jaati hai.",19.0,3,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+ab yeh prakriya ke bas drishya pratinidhit kar rahe hain.,13.0,3,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"aap kaam khatam ho jaane ke baad bhi jobseeker allowance ke liye apply karna hoga, *you will still have to*.",14.0,3,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+yeh value pehle bar is context mein jagane gaye aag ke jhande ko dikhati hai.,6.0,3,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"the contract bandh hone ke baad, employee ka kaam khatam ho gaya.",8.0,3,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"ek raajaon ne machee par aagye, lekin unka haath kaam naa aaya.",30.0,3,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+a common trend in developing countries is the adversity of balance of भुगतान ka संतुलन.,7.0,3,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+aur is system vyavstha par jimmadar aur satark samaj ke upar nibhar raha hai.,23.0,3,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+is incident ke baad shahar ke ladke mainko special way se dekhne lage.,9.0,3,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"yeh MT systems Japan-Korea, English-Korea ke liye few words ke liye banaye gaye hain.",18.0,3,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+pichli quarter ke doora price spread tolerable limit ke andr hi raha tha.,20.0,3,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+aisa kaise ho sakta hai...  meine jo confession kiya tha wahi post kar dete,,4,English_Translation,Human_Ref,,Gold_Injection
+tum to emotional kar dete ho yaar. ,,4,English_Translation,Human_Ref,,Gold_Injection
+modi ki tyre puncture ho rahi hai . ,,4,English_Translation,Human_Ref,,Gold_Injection
+"iskee alava, yeh vyavastha jimmedar media aur satark samaj par nirbhar hai. 
+",23.0,4,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"kuch pranalayn japaan-koreya, english-koreya ke limited shabdavali ke liye vikasit ki gayi hain. 
+",18.0,4,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"pehle bolneka yeh sankoch mere liye dukhkar tha, ab woh sukhkar ho gaya hai. 
+",3.0,4,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"this site provides an english to hindi shabdkosh as well as a hindi to english shabdkosh. 
+",22.0,4,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"meeting mein, appellant ne request kiya ki woh Krishan Sikand se chhod jaaye. 
+",29.0,4,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"they run ek number ka vocational programmes with varying duration of different skills. 
+
+
+
+",4.0,4,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"saat wahan pahunchna bacchon se kahiye ki apne badon se aaspaas ke gaon aur shaharon ke naam pooch kar aaye.  
+",26.0,4,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"is english hindi english dictionary mein aap aasan se hindi aur english shabdoo ke arth dhund sakte hain 
+",22.0,4,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"January, 1943 mein unhone 26 tarikh swadheenata divas se naye karyakram shuru karne ki ghoosna ki.  
+",16.0,4,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"My hesitancy in speech, jo ek baar annoyance tha, ab khushi hai.  
+
+
+
+",3.0,4,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"Many raja  try karne  fish ko shoot karna but unsuccessful.  
+",30.0,4,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"small birds, squirrels aur mice the cat ke liye specially created hain. 
+
+
+
+",12.0,4,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"Moreover, usne Gandhiji ko jaanch karne ki anumati bhi di. 
+",11.0,4,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"This value represents the jalte dhvajon ka tarah  ki  संदर्भ mein  पिछली बार  prयुक्त  huye. 
+
+
+
+",6.0,4,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"The karmchari ke sevaen contract ke samaptI ke baad radd di gayi. 
+
+
+
+",8.0,4,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"ye nations ke diplomatic sambandhon ke beech irritant saabit ho sakti hai. 
+",25.0,4,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"January, 1943 mein unhone 26 tarikh swadheenata divas se naye programmes launch karne ki ghoosna ki.  
+",16.0,4,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"ab yaad hai, yeh prakriya ke bas visual representations kar rahe hain. 
+
+
+
+",13.0,4,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+iske madhyam se membership ka pratisthan aur samaj ka bhautik anurakshan sunishchit hota hai.,17.0,4,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"choti chidiya, gilhari aur chuhe to jaise billi ke liye hi bane hain.",12.0,4,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"January, 1943 mein unhone 26 date Azad Diwas se naye programme shuru karne ki ghoshna ki.",16.0,4,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"Mere pyaarā countrymen, kehā hai ki seekhna growing hai.",24.0,4,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"chhote birds, squirrel aur mouse cat ki diet ke liye vishesh roop se banaye gaye ho.",12.0,4,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"meeting mein, appellant ne kaha ki woh Krishan Sikand ko chhod jaayein.",29.0,4,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"chunkee mana jaata hai ki ve garibo ke pakshe bolte hain, isleelee unki awaaz adhik suni jati hai.",1.0,4,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+sevaaun wahan pahunchna bachchon se kahiye ki apne badeon se aaspas ke gaamon aur shaharon ke naam puchh kar aayein.,26.0,4,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+Yeh man jalate dhwajon ka pratinidhitva karta hai jo ki is tarah ke sandarbhe mein pehle baar prayaukt the.,6.0,4,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+lekin har koi nahin jaante hain ki ektaa ek maangi jaati hai ya phir ektaa ka matlab hai.,2.0,4,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+is value ne aage ki baat karte hue aaj ke liye lagne wale dhwajon ka prateek hai.,6.0,4,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+price spread was within tolerable limit last quarter mein.,20.0,4,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+The कर्मचारी की सेवाएँ contract के समाप्ति के बाद radd di jaati hain.,8.0,4,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+They चलाते हैं असंख्य व्यावसायिक कार्यक्रमों के साथ जिनमें कौशल की अलग-अलग अवधि होती है.,4.0,4,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"The other अन्य आकर्षणों include चार museums, एक sculpture park aur khuli air amphitheatre.",5.0,4,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+Appellant ne bैठक mein requested kiya hai ki use Krishna Sikand ko leave dena chahiye.,29.0,4,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"Bangladesh ki sāth India ka border me 111 claims kar rahi hai ki 17,000 acres ki territory spread hain jahan par 000 se jyada 17 acres fall hain.",27.0,4,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+pichli quarter ke dauran Price tolebarable spread ke upar swikar yogya simee ke antrgat hi the.,20.0,4,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"kuch pranaalayaa jaapan-koreea, english-koreea ko siimit shabdavaali ke liye vikasit ki gayee hain.",18.0,4,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"aur aattrakshan mein chaar sangrahalaay, ek moortikala maidan aur ek khuli hava ka rangmanch shamil hain.",5.0,4,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+agar hum aaj kurbani dete hain toh uska faida aane wali pehree ke milta hai.,15.0,4,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+january 1943 me wo ne 26 january se launch hone wale apne naye programmes ko aankh se utara.,16.0,4,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+yeh raajneeti ke beech ke deshon ke munaseboon mein kaafiyaan ban sakta hai.,25.0,4,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+Japan se Korea aur English se Korea ke liye kuchh limited vocabulary ke liye MT systems banaye gaye hain.,18.0,4,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+yeh incident ke liye shahar ke ladke mujhe dard dene lage.,9.0,4,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+lekin sab logon ko abhi yeh baat janchhi nahin ki ekta ka matlab sirf rajneetik ekta nahin hain.,2.0,4,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"unlimited business programs run karte hain, jo different skills ke liye alag-alag duration ke hain.",4.0,4,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"chhote chhote birds, chooties aur mausey neem ke liye toh lagta hai ki unhe the cat ke liye khas banaya gaya hai.",12.0,4,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"agar hum abhi balidaar ho jaate hain, toh aapke baad ke janm ke log iska faida utha sakte hain.",15.0,4,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+aaj tak bahut se rajan ne machhli ko shoot kiya lekin koi kaam nahin hua.,30.0,4,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+aur usne Gandhi ji ko janch karne ke liye bhi *anumati* di thi.,11.0,4,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+This site provides an अंग्रेज़ी to हिन्दी शब्दकोश as well as a हिन्दी to अंग्रेज़ी अर्थ dictionary with आसानी.,22.0,4,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"jahan raaja aur desh ek ho, usme koi alag alag ka prashn hi nahin hota.",10.0,4,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"jahan raaja aur desh ek ho, vahin option ka question hi nahin uthaata.",10.0,4,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"agar hum aaj *sacrifice* karte hain toh uska *results* *generations* ko milta hai, unhe *enjoy* karne ko.",15.0,4,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+yeh nations ke diplomatic relations me ek irritant ban sakti hai.,25.0,4,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+sir hamare ghar me white wash ho rhi thi.  isliye copy ghar pe reh gayi ,,5,English_Translation,Human_Ref,,Gold_Injection
+"Hume bhi link do, life boring ho gayee hai",,5,English_Translation,Human_Ref,,Gold_Injection
+"Dono families puri ki puri yaha hain Ranveer-Deepika, shaadi kar lo mandap accha laga hua hai free me kaam ho jayega.",,5,English_Translation,Human_Ref,,Gold_Injection
+"Bharat ka Bangla Desh ki seema mein 17,000 ekadere kshetrafal vale 111 parikshetron par daava hai. 
+",27.0,5,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"iskee atirikt, unhone gandhiji ko jaanch karne ki ijaazat bhi di.  
+",11.0,5,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"saat wahaan pahunchna bacchon se kahiye ki apne baaron se aaspaas ke gaon aur sheharon ke naam pooch kar aaye.  
+",26.0,5,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"in January 1943 woh apne naye programmes ka announcement kiya tha jo 26 January se shuru hone wale the. 
+",16.0,5,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"long spell of economic depression karega bahut mushkil common man ke liye.  
+",21.0,5,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"but sabko pata nahin hai ki ekta matlab nahin political ekta jo imposed ho sakti hai. 
+
+
+",2.0,5,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"they asankey vyavasayik karyakram chalaate hain jiski  different skills ke liye different duration hai.  
+",4.0,5,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"chhoti chiriyaa, gilliharii aur chuhhe toh jaise billi ke liye hee bane hain. 
+
+
+",12.0,5,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"iskee aatirikta, unhone gandhiji ko jaanch karne ki ijaazat bhi di.  
+",11.0,5,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"and because they supposedly speak for the poor unka aawaz zyada sunai deta hai. 
+
+
+
+",1.0,5,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"it diplomatic relations mein ek irritant ban sakta hai. 
+
+
+
+",25.0,5,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"the other attractions include museum, sculpture park aur open air amphitheatre. 
+
+
+
+",5.0,5,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"kimaat vistar swikar्य seema mein the पिछली timahi  during.  
+",20.0,5,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"At the baithak, the appealार्थी  kiya  anurodh  ki woh Krishan Sikand  se ja sake. 
+
+
+
+",29.0,5,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"But logonko baat hai ki ekta matlab rajneetik ekta nahi jo imposed ho sakti. 
+
+
+",2.0,5,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"agar hum aaj sacrifice dete hain to uske results aane wali generations ko milte hain. 
+
+
+
+",15.0,5,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"chunki unko supposedly gharbon ke paks mein speak kiya jata hai, isliye unki awaz zyada suni jati hai. 
+
+
+
+",1.0,5,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"is madhyam se membership ka pratiasthan tatha samaj ka bhoutik anurakshan  ensured hota hai. 
+
+
+
+",17.0,5,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+Long time ke liye chalne wali economic recession aam aadmi ki mushkilain badh degi.,21.0,5,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+Yeh deshon ke kutniatik sambandhon ke beech kirkiri sabit ho sakti hai.,25.0,5,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+bad payment balance developing desh mein ek common trend hai.,7.0,5,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+Bahut se raajaa fish ko marne ki koshish kee lekin vah safal nahin hue.,30.0,5,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+employee ka contract khatam hone ke baad services terminate kar di gayi the.,8.0,5,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"iske alaava, unhone Gandhi ko bhi inquiry karne ki icchaa dene ki permission di thi.",11.0,5,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+ab yeh process ke bare mein yeh visual representation kar rahe hain.,13.0,5,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+but sab logon ko abhi ye baat jazbaat nahi ki ekta ka matlab sirf rajnitik ekta nahi hai.,2.0,5,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+is incident ke reason se city ke ladke mujhe bhaav dene lage.,9.0,5,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"a kuch MT systems Japan - Korea, English - Korea ne developed kiye hain limited vocabularry ke liye.",18.0,5,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"India claim karta hai 111 enclaves jo 17, 000 acres par phailte hain jo Bangladesh ke kshetra mein padte hain.",27.0,5,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+ek lambi duriyaan ki arthik sankat common man ko bahut badi paristhitiyon mein doob degi.,21.0,5,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"issey, samaj ki sadasyataa pratishtapan ho jaati hai aur samaj ki vyaavahaarik suraksha sunishchit hoti hai.",17.0,5,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+This तरह में पिछली बार प्रयुक्त जलते ध्वजों का मान करता.,6.0,5,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"But after the incident, Upara city ke लडके लगे थे कि mera bhav dono ko dene ke liye mere पास admiration tha.",9.0,5,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+Adverse payment ka balance developing countries mein ek common trend hai.,7.0,5,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"any other attractions mein four museums, ek sculpture ground aur ek open air amphitheatre include hain.",5.0,5,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+Now yeh visual representations ke liye bas ek dhrushya pratinidhitv karte hain.,13.0,5,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"choti chidiya, gilhari aur chuhe toh jaise billi ke liye hi bane hain.",12.0,5,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"jaahan raaja aur desh samaan ho, vahaan vikalp ka prashn hi nahin uthaata.",10.0,5,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"pehle bolne ka yeh sankoch mere liye duhkarkar tha, ab vah sukarkar ho gaya hai.",3.0,5,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+balon se apne badeon se paas ke gaon ya shaharon ke naam poochhna.,26.0,5,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"mere deshwasi, kaha jaata hai ki shikshan ka matlab hai badhna.",24.0,5,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"aur kyunki unka dhaann vishwas hai ki unhen gharibon ka baap hee hain, isliye unka aavaz zyada sunaya jaata hai.",1.0,5,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"bharat ka bangladesh ki siima mein 17,000 ekda parikshit (area) ke 111 parikshit (area) par daava hai.",27.0,5,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"saat ke liye jaana, baachhon se kehte hain ki apne baDhon se aas-paas ke gaaon aur shaharon ke naam poochh kar aao.",26.0,5,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"jahan raaja aur desh ek ho, wahan choice ka sawal hi nahin uthaata.",10.0,5,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+aage badhne wale ek long economic depression ne common man ko bahut badi muskilein dalega.,21.0,5,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"aur iske saath, unhe Gandhi ko jankari lene ka permission bhi diya tha.",11.0,5,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"after the incident, Upara ke ladke aur ladkiyon ne meri taqdeer ko but respect se dekhna shuru kar diya.",9.0,5,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+You will have to submit an arji for jobsaker again once your naukri samapt kar lo.,14.0,5,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"aur kyunki unko gareebon ka paksh maana jaata hai, vo bolte toh aur zyada sunne ko milta hai.",1.0,5,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"my hesitation in bolne ka, jo pahle dhu:khkar tha, ab sukhkar ho gaya hai.",3.0,5,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+meeting mein appellant ne requested kiya hai ki unko krishan sikandar se leave kar dena chahiye.,29.0,5,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"mere pyare deshvasi, yeh kaha jaata hai ki learning growing hai.",24.0,5,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"january, 1943 mein unhe 26 ko azadi ka naya programme launch karne ki ghoshnaa ki.",16.0,5,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+Ab kon pataakhe fod raha hai delhi mai jo pollution level badh gaya hai.,,6,English_Translation,Human_Ref,,Gold_Injection
+"kuch garam ya thanda khane se agar daanton me tez jhanjhanahat ho,  to use sensitivity kahte hain .",,6,English_Translation,Human_Ref,,Gold_Injection
+"Free bijli, free pani, free ye, free wo ke naam par to public ISI ko bhi vote de degi.",,6,English_Translation,Human_Ref,,Gold_Injection
+"agar hum aaj kurbani dete hain to uska fayda aane wali piddi ko milta hai. 
+",15.0,6,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"lekin sab logon ko abhi yeh baat junchi nahi ki ekta ka matlab sirf rajneetik ekta nahi hai. 
+",2.0,6,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"chhoti chidiya, gillihari aur chhuhe toh jaise billi ke liye hee bane hain. 
+",12.0,6,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"few MT systems Japan - Korea, English - Korea,  chala hai limited vocabulary ke liye. 
+
+
+",18.0,6,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"Many Kings koshish kiya fish ko shoot karne but kamyaab nahin hue. 
+",30.0,6,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"employee ka service contract khatam hone ke baad terminate ho gaya.  
+",8.0,6,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"kuch systems japan-korea, english-korea ke liye limited shabdavali ke liye vikasit ki gayi hain.  
+",18.0,6,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"ye maan jalte dhvajon ka pratinidhitv karta hai jo ki is tarah ke sambandh mein pichli baar prayukt the.  में  
+
+
+
+",6.0,6,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"other attractions mein char museums, ek sculpture garden aur ek open air stage hai.  
+",5.0,6,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"But sabko pata nahin hai ki unity matlab sirf rajneeti unity nahin jo imposed ho sakta. 
+
+
+
+",2.0,6,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"They run a number of vocational programmes with varying duration of different skills.  
+
+
+
+",4.0,6,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"where raja aur desh milte hain, wahaan alternative ka sawal hi nahin uthta. 
+
+
+
+",10.0,6,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"If we dete aaj, aane wali peedhi ka fayda uthayegi. 
+
+
+
+",15.0,6,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"A few MT systems jaapan-korea, english-korea, vikasit hain for seeemit praanalian. 
+
+
+",18.0,6,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"They chalaate anasany koushal vyaavsayik karyakram with varying duration of different skills. 
+
+
+
+",4.0,6,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"mere pyare deshvaasio, yeh kaha jata hai ki learning growing hai. 
+
+
+
+",24.0,6,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"Additionally, yeh system responsible media aur vigilant samaj par nirbhar hai. 
+
+
+
+",23.0,6,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"Rajinder Singh Bedi kai-kai ghanta Vira ji ke sIrahane aakar baithte rahte aur Vira ji ke saath unki bimari ke vishay mein  used to come together hours. 
+
+
+
+",28.0,6,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+last quarter ke dauran price expansion acceptable limit ke under hee thi.,20.0,6,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"mere pyaare deshwaasiyo, yah kahaa jaataa hai ki siksha badh rahi hai.",24.0,6,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+Rajinder Singh BEDI many-many hours Veera ji ke sirhaney aakar baitha rehte aur Veera ji ke saath unki bimari ke vishay mein vinod karte rehte.,28.0,6,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+adverse balance of payment ek common trend hai developing countries mein.,7.0,6,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"ab hamein jeewan dena hoga, toh aage ki piddiyon ko anand milega.",15.0,6,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+ek lambi aarthaatmak sankat kaal common man ko bahut hi durdaai dega.,21.0,6,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+you ko phir aap ko job se aakhiri baar allot karne ke liye arzi bharna pad sakta hai jab aap aapni naukri samapt kar de.,14.0,6,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"pehle bolneka yah sankoch mera lie dukhakar tha, ab vah sukhkar ho gaya hai.",3.0,6,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"iske atirikt, unhone Gāndhiji ko janch karni ki anumati bhee dee.",11.0,6,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"vishay kaaranatmak balaans payment ka kharaab hai, iska lakshya vikasit deshon mein aam baat hai.",7.0,6,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"Lekin upar incident ke baad, Upara city ke ladke ladkiyon ne mujhe adab aur samman se dekha.",9.0,6,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+aur unki awaaz poor logon ke liye baat karne wale ke liye suni jaati hai.,1.0,6,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+It can become कूटनीतिक संबंधों में किरकिरी बन सकती है राष्ट्रों के बीच.,25.0,6,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+Jahan राजा aur देश milte hain wahan प्रश्न ka koi विकल्प ही नहीं हो सकता.,10.0,6,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+You will still have to claim झोब्सेएकेर् की अर्जी फिर से लेनी padegi jab aapki नौकरी समाप्त हो jayegi.,14.0,6,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"Is English Hindi English dictionary me aap as easily Hindi aur English words ke meanings search kar sakte hain, jis site English Dictionary provides.",22.0,6,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"pahle bolneka yah hesitancy meri aankhon meh se dukaankar tha, ab wah sukhkar ho gaya hai.",3.0,6,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"lekin sab logon ko abhi ye baat nahi janchi ki ekta ka matlab sirf rajnitik ekta nahi hai, unity imposed hui ekta ke baad humein ek dusre ko know karne ki zaroorat nahi hai.",2.0,6,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"jab hi koi likhne wali disk daal jaati hai, toh aankda unka check shuru ho jaayega.",19.0,6,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"janvary, 1943 mein unhen 26 taariikh swadheenata divas se naye kaaryakram shuru karne ki ghoshnaa ki.",16.0,6,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"mere pyare deshvaasiyo, yeh kahi jaati hai ke shiksha badh rahi hai.",24.0,6,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"agar hum aaj tyag karte hain, toh aapke baad ke janm ke log phal utha sakte hain.",15.0,6,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+ek aam adam ke liye bahut daur tak ke aekonomik depression ne ekstrem hardship laya kar sakta hai.,21.0,6,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"aur attractions mein chaar museum, ek sculpture park aur ek open-air amphitheatre bhi shamil hain.",5.0,6,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+yeh countries ke kutneetitik sambandhon ke beech kaam kaar ban sakti hai.,25.0,6,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"pehle bolne ka yeh samkoch mere liye duhkarkar tha, ab vah sukarkar ho gaya hai.",3.0,6,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+meeting mein appeal karne wala ne yeh kahe ki usko krishan sikand chhod dena chahiye.,29.0,6,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+sabhi ke paas yeh nahi hai jaanta ki ekta ka matlab sirf raajneeti ke saath nahin juda hota hai jo force se lagaya ja sakta hai.,2.0,6,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+yeh samaj ki *sharariyat* ko *bharne* ka tarika hai aur *sabse* *zaroori* *kaam* karne ka *dost* ban jata hai.,17.0,6,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"january 1943 me, wo ne 26 january se launch hone wale apne naye programmes ko aankh se utara.",16.0,6,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"aur attractions mein chaare museum, ek sculpture park aur ek khuli rangmanc hee shamil hain.",5.0,6,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+this kootneetik sambandhon mein karkiri ban sakta hai rashtron ke beech.,25.0,6,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"small animals like chidiya, chhoti chidiya aur gilhari, it lagta hai, usko bana hai cat ke liye.",12.0,6,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"Additionally, ye system responsible media aur vigilant samaj par depends hai.",23.0,6,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"once pehle bolne ka yeh hesitation mere liye disturbance tha, ab wo comfortable ho gaya hai.",3.0,6,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"Bangladesh ke saath India ne 17,000 acres spread ke 111 territory par claims kar rahe hain.",27.0,6,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+Aisa pehli bar hua hai satra-athra saalo me. Roz head & shoulder lagaya fir bhi dandruff hua hai baalo me.,,7,English_Translation,Human_Ref,,Gold_Injection
+"Har sabzi mein pyaaz daalna zaroori hota hai, ab jokes mein bhi.",,7,English_Translation,Human_Ref,,Gold_Injection
+exactly !  very true !  bachpan ki yaade dilwate hi admin,,7,English_Translation,Human_Ref,,Gold_Injection
+"pisli timahi ke duration mein qimat vistar swikarable seema ke antargat hee tha.  
+",20.0,7,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"aap ko fir se aap ke jobse alag ho jaaye to allotment ke liye apply bharni pad sakti hai jab aap apni naukri sampt kar de. 
+",14.0,7,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"mere pyaare deshvaasio, yeh kaha jaata hai ki shiksha badh rahi hai.  
+",24.0,7,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"India claims 111 enclaves spread over 17,000 acres that fall in bangladesh territory. 
+
+
+
+",27.0,7,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"meri pyari deshvaasiyon, yeh kahte hain ki seekhna badhna hai. 
+",24.0,7,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"Rajinder Singh Bedi use aata tha aur saath mein baith ke use samjhaata tha. 
+",28.0,7,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"vahaan ek baad ek sabhi rajaon evam rajkumaron ne machhi par nishaana sadhne ka prayatn kiya  kinantu safalta hath na lagi.  
+",30.0,7,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"Rajinder Singh Bedi kaee-kae ghanta Vira ji ke sirahaane aakar baithte rahte aur Vira ji ke saath unki bimari ke vishay mein vinood karte rahte.  
+",28.0,7,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"pehle bolneka yeh sankoch mere liye dukhkar tha, ab woh sukhkar ho gaya hai.  
+",3.0,7,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"This value represent the burning flags that were used in such a context last time. 
+
+
+
+",6.0,7,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"Rajinder Singh Bedi aata tha aur saath mein baith ke use samjhaata tha. 
+
+
+
+",28.0,7,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"in January 1943 woh apne naye programmes ka announcement kiya. 26 January se launch hone wale the.  
+
+
+
+",16.0,7,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"The other attractions include four museums, ek sculpture park and an खुली air रंगमंच. 
+
+
+
+",5.0,7,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Additionally, the system is dependent on a responsible media and a satark society. 
+
+
+
+",23.0,7,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"It can become kirkiri in the kूटनीतिक sambandhon between raashtron. 
+
+
+
+",25.0,7,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"other attractions mein char museums, ek sculpture garden aur ek open air amphitheatre hain. 
+
+
+
+",5.0,7,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"ve ek number vocational programmes run karte hain jiske liye varying duration hai. 
+
+
+
+",4.0,7,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"aap ko fir se aap ke jobseeker 's allotment ke liye arji bharni pad sakti hai jab aap apni naukri finish kar de. 
+
+
+
+",14.0,7,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+meeting me candidate ne appeal karna hee kaha hai ki use Krishna Sikand chhod dena chahiye,29.0,7,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"if we give sacrifice aaj, its benefit aane wali pidi ko milega.",15.0,7,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+logon ne kaha ki is incident ke liye mujhe city boy ne respect diya.,9.0,7,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"Japan aur Korea ke liye few MT systems, English aur Korea ke liye, limited vocabulary mein develop huye hain.",18.0,7,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"India claim kar raha hai 111 enclave jo 17,000 acre par phaila hua hai, jo Bangladesh ki territory mein padte hain.",27.0,7,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+Rajinder Singh Bedi usey ghante ghante baithke samajhne ke liye aa jata tha aur use thoda thoda uthakar samjhaata.,28.0,7,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+January 1943 mein unhone 26 tareekh swatantrata diwas se naye karyakram shuru karna ki ghoshna ki.,16.0,7,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+yeh deshon ke kuteenitiik sambandhon ke beech kirkiri saabit ho sakti hai.,25.0,7,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+You can easily find Hindi aur English words ke meanings in is English Hindi English dictionary.,22.0,7,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"meeting me, appellant ne kiya ki Krishna Sikand ko chhodne do.",29.0,7,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+January 1943 mein vah apne naye programmes ko 26 January se shuru karne ke liye ghoshit kiya.,16.0,7,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+Isse samaj ki physical maintenance ho jati hai.,17.0,7,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+lame spell of आर्थिक depression चलने वाली आम आदमी को extreme hardship देगी जो लम्बे समय तक कठिनाईयां पेश करेगी.,21.0,7,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"a data integrity test disc ki घुसाई ke baad shuru ho jayega aur yeh process डिस्क ko लिखने yogy hai, aur yeh पूरा हो tab tak jab tak aankdaa sahi ho.",19.0,7,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+ab yeh बस दृश्य puri tarah se प्रतिनिधित्व karte hain.,13.0,7,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+Rajinder Singh Bedi use kai-kai hours veera ji ke sirhaney aake baithne aur veera ji ke saath unki bimaari ke vishay mein vinod karte rehte the.,28.0,7,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+mere pyaare countrymen ko kahaa jaataa hai ki education learning bahut fast growing hai.,24.0,7,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+vah varying vocational programmes run karte hain jiske liye number of skills ke liye alag-alag duration hote hain.,4.0,7,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+ye medium se member-ship ka replacement aur samaj ka bhautik aurusthan sureet hota hai.,17.0,7,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+raajinder singh bedi baar baar ghantay ghantay veera ji ke sirahaane aakar baithte the aur veera ji ke saath unki beeimaaree ke vishay mein vinood karte the.,28.0,7,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+saat wahan pahunchna bachchon se kahiye ki apne badon se aas-paas ke gaano aur shahro ke naam poochh kar aao.,26.0,7,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+har ko nahi pata hai ki unity ka matlab sirf political unity nahin hota jo force se lagaya ja sakta hai.,2.0,7,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+tum apni job khatam karne ke baad bhi jobseeker allowance ke liye claim karna hoga.,14.0,7,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+Rajinder Singh Bedi use to aaya kartaa thee aur saath baith ke usko soochhana karte thee ghanteon tak.,28.0,7,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"yeh sabhi aankh mein khushiyon ke aatrishyon mein chaar museum, ek sculpture field aur ek open-air theatre shamil hain.",5.0,7,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+uske baad sab rajaon aur rajakumaron ne machhli par nishana sadhne ka prayas kiya par uske there koi kaam nahin hua.,30.0,7,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+fir se aap ko jobse ek baar aur application submit karna pad sakta hai jab aap apni job khatam kar de.,14.0,7,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+yeh site English se Hindi aur Hindi se English ke liye dictionary provide karta hai.,22.0,7,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+system ka baap-betab hai responsible media aur vigilant samaj ke upar.,23.0,7,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+balo ko apne badeo se paas ke gaon ya kahanon ke naam *poochhna* chahiye.,26.0,7,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+but sab logon ko yeh baat nahi malum ki ekta ka matlab nahi hai jo rajneetik ekta ho jo force se lagaya ja sake.,2.0,7,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+the कर्मचारी ki सेवाएँ contract समाप्ति के बाद रद्द कर दी गईं.,8.0,7,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+they chalate hain asankhya vyavasayik kaaryakram ke saath alag-alag kaushal ke saath.,4.0,7,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+ek long economic depression common man ko extreme hardship dene wala hai.,21.0,7,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+contract ke termination par uska service terminate kar diya gaya.,8.0,7,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+vahin many kings aur princes ne fish par target lagaane ka try kiya par success nahin hui.,30.0,7,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"ahaa voh dinnn ! chupke se paise le ke comics khareedna, awesome days !",,8,English_Translation,Human_Ref,,Gold_Injection
+Eid kab hain? Jis din Salman ki filim release hoti hai.,,8,English_Translation,Human_Ref,,Gold_Injection
+"Thanks bhai bas pyar barkarar rahe, subscribe kar lijiyega",,8,English_Translation,Human_Ref,,Gold_Injection
+"ankada akhandta jaanch shuru ho jaegi jaise hee koi likhne yogya disk ghusi jaati hai. 
+",19.0,8,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"they asankey vyavasayik karyakram chalaate hain jiske  different kaushal ke liye alag-alag avadhi hai.  
+",4.0,8,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"karmachari ke karar ki samaptI par uski sevaan radd kar di gai.  
+",8.0,8,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"data integrity test shuru hoga jab disc lag jayega. 
+",19.0,8,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"other attractions me include chhaar museums, ek sculpture park aur ek open air amphitheatre hai. 
+",5.0,8,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"meri baat karne mein sharam, jo ek daur tha, ab khushi hai. 
+
+
+
+",3.0,8,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"aap ko fir apke jobse alag  allottanche ke liye apply bharni pad sakti hai jab aap apni naukri samat kar de.  
+",14.0,8,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"last quarter ke during price vishtaar acceptable limit ke andar hee tha.  
+",20.0,8,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"par is karan shehar ke ladke mujhe bhaav dene lage.  
+",9.0,8,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"Through it, membership is replaced aur society ka physical maintenance hota hai.  
+
+
+
+",17.0,8,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"a few MT systems Japan - Korea, English - Korea,  ke liye developed hain. 
+
+
+
+",18.0,8,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"Adverse balance of payment ek common trend hai developing countries mein.  
+
+
+
+",7.0,8,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"A  aankada  integrity test  shuru hoga  jaise hi  diskk  ghusaai  hoga. 
+
+
+
+",19.0,8,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"And because they supposedly bolte for garibhon ka paks their voice gets heard more. 
+
+
+
+",1.0,8,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"You will still have to fir  Arjee  झोब्सेएकेर् Allowance again when you finish your naukri kar  samapt. 
+
+
+
+",14.0,8,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Where King and country coincide, wahaan vikalp ka prashn hee nahi uthta. 
+
+
+
+",10.0,8,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"Adverse payment balance ek common trend hai developing deshon mein. 
+
+
+
+",7.0,8,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"karmachari ke contract ki cessation par uski sevaein radd kar di gai.  
+",8.0,8,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"now yaad hai, ye prakriya ke bas drishya pratinidhitv kar rahe hain.",13.0,8,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"pahle bolneka yah sankoch mere liye dukhakar tha, ab vah sukhaakar ho gaya hai.",3.0,8,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"iske alawa, yah vyavastha zimmedaar media taha satark samaj par nibhar hai.",23.0,8,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"Lekin incident ke baad, Upara city ka ladke aur ladkiyon ne mujhe samman se dekha.",9.0,8,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+Lekin har koi nahin jaante hain ki ekta ka matlab usi political ekta se nahin hai jo dabav se lagaya ja sakta hai.,2.0,8,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"anya attractions mei char museums, ek sculpture park aur ek open air amphitheatre shaamil hain.",5.0,8,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"some systems Japan-Korea, English-Korea ko limit vocabulary ke liye develop ki gayi hain.",18.0,8,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+they run numerous professional programs whose different skills ka duration different hoga.,4.0,8,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"small bird, mouse aur rat to jaise kitty ke liye hi baney hain.",12.0,8,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+data integrity test disk par lagta hai jab ki disc insert ho jayega.,19.0,8,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+abhi bhi aap apne job khete hue jab tak jobseeker's allowance ka claim karna hoga.,14.0,8,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+yeh website English se Hindi ka Dictionary bhi de rahi hai aur Hindi se English ka Dictionary bhi.,22.0,8,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+ek raja ne fish ko निशाना लगane ki koshish ki lekin हाथ नहीं लगे.,30.0,8,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+Bachon se कहिए कि वे आसपास के गांवों के नाम अपने बड़ों से पूछ आएं और वहां पहुंचना होगा.,26.0,8,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"If we sacrifice today, our future generations will enjoy the results detaa honge.",15.0,8,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+"Jahaan King aur country saman hote hain, vahan option ka question hi nahin uthata, jahaan sab kuch coincide karta hai.",10.0,8,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"kuch pranaliyan Japan-Korea, English-Korea ko simeet shabdavali ke liye MT viksit ki gayi hain.",18.0,8,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+aap ko fir se aapke Jobseeker ke liye allotment ke liye arzi bharna pad sakta hai jab aap apni naukri finish kar de.,14.0,8,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"bharat ka bangladesh ki siima mein 17,000 ekda parikal (acre) vale 111 parikshit (disputed) areas par daava hai.",27.0,8,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+"iske alawa, ye vyavastha jimmadar media aur satark samaj par nibhar hai.",23.0,8,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+uske baad ek ke baad sab rajaon aur rajakumaron ne machhli par nishana sadhne ka prayas kiya lekin kaamyaab na hua.,30.0,8,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+yeh to sirf dikkat ke liye ek visual protsess hee hai.,13.0,8,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"""developing countries"" mein ""adverse balance of payment"" ek common trend hai.",7.0,8,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+is se membership badal jaata hai aur samaj ka shariirik upayog bhi taqreer hota hai.,17.0,8,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+pichli trimahi ke doora kitam vastar swikaraya sima ke antargat hi tha.,20.0,8,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"mere pyare deshvaasiyo, yeh kahi jaati hai ke shiksha badh rahi hai.",24.0,8,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+raajinder singh bedi kae-kae ghaNTe veera ke sirahane aakar baith ke rehte the aur veera ke saath unki bee-maaree ke vishay mein vinood karte rehte.,28.0,8,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+yeh diplomatik raishan mein ek *chintaa* ban sakta hai.,25.0,8,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+duniya mein price ka spread last quarter mein acceptable range mein raha tha.,20.0,8,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"jahan raaja aur desh ek ho, voh toh ek hi cheez hai, koi alternative nahin hai.",10.0,8,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"as soon as the disk is inserted, data integrity test kaa shuru hogaa.",19.0,8,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"Bharat ne Bangladesh ke 111 parikshitron ka daava kiya hai jo 17,000 aade ke siema ke vishesh kshetrvale hain.",27.0,8,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+it ke through samaj ki member-ship pratisthaapna ho raha hai aur samaj ka physical maintenance toh samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki samaj ki sam,17.0,8,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+unme number of vocational programmes run hote hain jo varying duration ke liye hain.,4.0,8,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+yeh value last time ke dhvajon ka hi rahega jo is tarah ka use hua tha.,6.0,8,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+bacchon se kehte hain ki apne baadon se aas-paas ke gaon aur shaharon ke naam *find* kar ke aao.,26.0,8,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"faisal bhai aap bhi guddu ki animation series kyun nahi banate ,  like chotta bheem . ",,9,English_Translation,Human_Ref,,Gold_Injection
+chahe kitni bhi games ho...  khelenge to mario aur contra hi...,,9,English_Translation,Human_Ref,,Gold_Injection
+"yahan log khoya pyar dhundne mein lage hai, tumhe khoye book ki padi hai? Where is tolerance?",,9,English_Translation,Human_Ref,,Gold_Injection
+"vahaan ek baad ek sabhi rajaon evam rajkumaron ne machhi par nishaana sadhne ka prayatn kiya kintu safalta haath na lagi. 
+",30.0,9,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"lambaa samay tak chalne wali aarthik mandi aam aadmi ki kathinaaiyan badha degi. 
+",21.0,9,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"ye maan jalte dhvajon ka pratinitv karta hai jo ki is tarah ke sandarbh mein pichli baar prayukt the. 
+",6.0,9,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"price spread tha tolerable limit mein last quarter mein. 
+",20.0,9,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"but baad mein incident ke baad, the Upara city boys aur girls ne mujhe  dekh ke  respect se dekha.  
+",9.0,9,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"adverse balance of payment hai ek common trend in developing countries. 
+
+
+
+",7.0,9,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"baithak mein appeal-arthee ne anurodh kiya hai ki usse krishna sikand chhod dena chahiye 
+
+
+
+",29.0,9,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"mere pyare deshvaasiyo, yeh kaha jata hai ki shiksha badh rahi hai.  
+",24.0,9,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"ankada akhandata jaanch shuru hogi jaise hee koi likhne yogya disk ghusayi jati hai.  
+",19.0,9,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"India claims 111 enclaves spread over 17,000 acres that fall in Bangladesh territory.  
+
+
+
+",27.0,9,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"Moreover, woh Gandhi ko inquiry karne ka permission bhi diya.  
+",11.0,9,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"long spell of economic depression common man ko bahut mushkil hoga.  
+",21.0,9,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"This site provides an English to Hindi dictionary as well as a Hindi to English dictionary. 
+
+
+
+",22.0,9,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"But after the  ghTana, the  shahar ladke aur ladkiyan mujhe bhav dene lage. 
+
+
+
+",9.0,9,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"My hesitancy in bolneka, which was once dukhkar, is now sukhkar. 
+
+
+
+",3.0,9,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"vahaan ek baad ek bahut saare Kings aur princes ne fish par nishaana saadhne ka prayatn kiya kintu saफलता haath na lagi. 
+
+
+
+",30.0,9,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"kuch pranalayn Japan-Korea, English-Korea ke liye few shabdavali ke liye vikasit ki gayi hain. 
+
+
+
+",18.0,9,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"Price spread last quarter ke during tolerable limit ke andar hi tha. 
+
+
+
+",20.0,9,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+ve aasankee vyavsaayik kaaryakram chalta hain jiskee vibhinn kaushal ke liye alag-alag avdhi hain.,4.0,9,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+wahan ek ke baad ek sabhi rajaon aur raja kumaron ne machhli par nishanaa sadhane ka prayas kiya kinthu safalta hath nahi lagii.,30.0,9,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+aap ko phir se aapke job ke liye ek new allotment ke liye arzi bharne pad sakti hai jab aap apni job samapt kar denge.,14.0,9,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+"ab yaad rakho, ye sirf dekhaai prakriyaen hain.",13.0,9,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+"is value ko burning flags ke liye use hue the, jo last time is context mein use hue the.",6.0,9,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+issey membership ka badalna aur samaj ka bhaujhalik upkaran karna hoga.,17.0,9,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+adverse payment balance developing countries me ek common trend hai.,7.0,9,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+if hum aaj qurbani dete hain to uska faayda aane wali pidi kee milti hai.,15.0,9,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"other attractions mein chaar museum, ek sculpture ground aur ek open air stage shamil hain.",5.0,9,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"anya attractions mein se the kaafi museums, ek sculpture park aur ek open air amphitheatre shaamil hain.",5.0,9,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"Abhi tak, unhone Mahatma Gandhi ko inquiry karni ka permission diya tha, lekin phir se usne iske alawa aur bhi kuchh kaha.",11.0,9,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+employee ka contract khataam hone ke baad uski services theek se band kar di gayi.,8.0,9,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"lekin har koi ye nahi jaante hain ki unity ka matlab to राजनीतिक एकता hi nahin hain jo logon ko lagu kiya ja sake, matlab yeh hai ki लोगोंको बात होनी chahiye.",2.0,9,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+At bैठक mei apne अनुरोध किया की वो Krishan Sikand ko chhod de.,29.0,9,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+In January 1943 mein usne 26 January ke नये स्वाधीनता दिवस पर शुरु होने वाले अपने कार्यक्रमों की घोषणा की.,16.0,9,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+agar hum aaj sacrifice karte hain to uska results future ke generations ko milega aur unhe enjoy karna milta hai.,15.0,9,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+karmanai ke contract ki cessation par uske sevayen rod ddi gayi.,8.0,9,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+Small birds aur squirrels to specially bani hain jaise ki bille ki liye appear karte hain.,12.0,9,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+karmachaari ke karar ki samapti par uski sevaen radh kar di gayi.,8.0,9,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+lekin sab logon ko abhi ye baat janchhi nahi ki ekta ka matlab sirf rajneetik ekta nahin hain.,2.0,9,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+yeh maan jalte dhvajon ka pratinidhit karte hain jo is tarah ke sandarbh mein pehle baar prayukt the.,6.0,9,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+employee ka contract khatam hoane ke baad unka kaam chhod diya gaya.,8.0,9,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+yeh value pehle baar is context mein use hue jaane wale jale hue prachar (flags) ki sankhya dikhaati hai.,6.0,9,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"meeting mein, applicant ne yeh maang kiya ki wo Krishan Sikand se chhod jaaye.",29.0,9,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"kuch systeme japaan-koriya, english-koriya ke liye limited vocabulary ke liye banaye gaye hain.",18.0,9,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+antagonistic payment balance is a common trend in developing countries.,7.0,9,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"janvary, 1943 me unhen 26 tariikh swadheenata divas se naye kaaryakram shuru karne ki ghoshnaa ki.",16.0,9,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+"mere bolne mein delay, jo pehle kaam ka sawaal thi, abh chhoti si khushiyon ki baat ban gayi hai.",3.0,9,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"India ka claim hai 111 enclaves, jo 17,000 acre se zyada bharat ke aapne territory mein hain, lekin Bangladesh ke khayal se bahar hain.",27.0,9,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+adverse balance of payment (aam bhi) developing countries mein dekha jaata hai.,7.0,9,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"aaj tak jyada si kiya hai jyada si jyapan-korea, english-korea ki pranaaliyon ka, lekin unka vocabulary sirf seimit hai.",18.0,9,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+January 1943 mein usne 26 January ko aane wale **swadhinata divas** par apne **naye** **ghoshana** aur **karyakram** ka **shuru** karne ka **ghoshana** kiya.,16.0,9,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"yeh to sirf ek bas hai, is process ka ek hi drishya pratinidhit karne ka.",13.0,9,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"supposedly unke paas poor logon ke liye baat karne ka hai, isliye unki awaaz zyada suni jati hai.",1.0,9,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+adverse payment balance developing countries mein ek common trend hai.,7.0,9,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"aur attractions mein chaa museums, ek sculpture ground aur ek open air amphitheatre shamil hain.",5.0,9,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+hamare desh me sab kuchh possible he .,,10,English_Translation,Human_Ref,,Gold_Injection
+"Working on a Sunday, chand rupye kamaane ke liye insaan apni khushiyon ka bhi sauda kar leta hai.",,10,English_Translation,Human_Ref,,Gold_Injection
+"i was always like ,  mere luncher paaji aayengey ,  zaroor aayengey . ",,10,English_Translation,Human_Ref,,Gold_Injection
+"in is english hindi english shabdkosh mein aap aasan se hindi aur english shabd ke arth dhund sakte hain.  
+",22.0,10,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"jahaan raja aur desh samaan ho, wahaan vikalp ka prashn hee nahi uthta. 
+",10.0,10,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"anya aakarshanon mein char sangrahalay, ek moorti-kala maidan aur ek khuli hava ka rang Manch shamil hain. 
+",5.0,10,final_gemma_baseline_hindi_src,Hin-Matrix,final_gemma_baseline_hindi_src.csv,
+"chhoti chiri, squirrels aur mice jaise dikha rahe hain ki cat ke diet ke liye specially banaye gaye hain. 
+",12.0,10,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"system ko ek responsible media aur ek vigilant society par depend karta hai. 
+",23.0,10,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"jaha raja aur desh milte hain waha alternative ka sawal hi nahi uthta. 
+",10.0,10,final_gemma_baseline_hindi_src,Eng-Matrix,final_gemma_baseline_hindi_src.csv,
+"pratikul bhu-gtaan santolun vikas-sheel deshon mein ek common trend hai.  
+",7.0,10,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"jahan raja aur desh samaan ho, wahaan vikalp ka prashn hee nahi uthta.  
+",10.0,10,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"iskee madhyam se membership ka pratisthan tatha samaaj ka bhoutik anurakshan jaise  ho jayega.  
+
+
+
+",17.0,10,final_gemma_ect_en_src,Hin-Matrix,final_gemma_ect_en_src.csv,
+"bachchon ko unke buzurgon se poochna chahiye  nearby villages ya towns ke naam. 
+
+
+
+",26.0,10,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"this site mein English se Hindi dictionary aur Hindi se English dictionary dono hai. 
+
+
+
+",22.0,10,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"but incident ke baad, the Upara city boys and girls ne mujhe admiraation se dekha. 
+
+
+
+",9.0,10,final_gemma_ect_en_src,Eng-Matrix,final_gemma_ect_en_src.csv,
+"My dear deshvaasiyo, it is said that shiksha badh hai. 
+
+
+
+",24.0,10,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Rajinder Singh Bedi aakar sirhaane ghnte beemaari ke saath use console karta tha. 
+
+
+
+",28.0,10,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"Adverse santulan bhugaatan ki pravriti vikasशील deshon mein common hai. 
+
+
+
+",7.0,10,final_gemma_matrix_en_src,Eng-Matrix,final_gemma_matrix_en_src.csv,
+"ankada akhandta jaanch begin hogi jaise hee koi likhne yogya disc inserted ho jati hai. 
+
+
+",19.0,10,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"meeting mein appellant ne requested hai ki usse krishna sikand leave karna chahiye. 
+",29.0,10,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+"is English Hindi English shabdkosh mein aap as well Hindi aur English shabd ke arth dhund sakte hain. 
+
+
+
+",22.0,10,final_gemma_matrix_hindi_src,Hin-Matrix,final_gemma_matrix_hindi_src.csv,
+you can easily find Hindi aur English words ke meanings in this English Hindi English dictionary me.,22.0,10,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+yeh maan jalate dhwajon ka pratinidhitva karta hai jo ki is tarah ke sandarbha mein pehle baar prayukt tha.,6.0,10,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+employee ka contract ki puri kar ke liye uski services cancel kar di gayi.,8.0,10,final_llama_baseline_hi_src,Hin-Matrix,final_llama_baseline_hi_src.csv,
+yeh ek irritant ban sakta hai international diplomacy ke beech deshon ke relationships mein.,25.0,10,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+aapka jobseeker ka allowance phir se claim karna padega jab aapka kaam pura karengi.,14.0,10,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+January 1943 mein vah apne naye programmes 26 January se shuru karne ke liye gyaan karaya.,16.0,10,final_llama_baseline_hi_src,Eng-Matrix,final_llama_baseline_hi_src.csv,
+Long time ki economic recession common man ki mushkilayen badh jayegi.,21.0,10,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+Rajinder BEDI many-many hours Veera ji ke side aa kar baitha rehta aur Veera ji ke saath unki bimari ke vishay mein vinaod karte rehte.,28.0,10,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+"iske alawa, yah vyavastha zimmedaar media tatha satark samaj par nibhar hai.",23.0,10,final_llama_ect_hi_src,Hin-Matrix,final_llama_ect_hi_src.csv,
+Voh vocational programmes ka number run karte hain jinki duration alag-alag skills ke hisaab se hoti hai.,4.0,10,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"Rajinder Singh Bedi use aana aur unke saath kitne hi samay bitaate the, unhe bhaat karne ke liye.",28.0,10,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+Kitne raajaa ne machli ko goli maarna chaahthe the lekin vah nahi kar sake.,30.0,10,final_llama_ect_hi_src,Eng-Matrix,final_llama_ect_hi_src.csv,
+"yeh website English se Hindi के लिए शब्दकोश के साथ ही Hindi se English के लिए शब्दकोश भी प्रदान करती है, जिससे आप आसानी से शब्दों के अर्थ जान सकें.",22.0,10,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+aur unki baat माना jata hai ki वे गरीबों के पक्ष में बोलते हैं to unki awaaz zyada suni jati hai.,1.0,10,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+Price पिछली तिमाही में स्वीकार्य सीमा के अंदर कीमत का विस्तार था.,20.0,10,final_llama_matrix_en_src,Eng-Matrix,final_llama_matrix_en_src.csv,
+ankdaa ikhandtaa jaanch shuru ho jayegi soon as koi likhne yogya disc inserted hoti hai aur test shuru ho jayega.,19.0,10,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"Moreover, unhone Gandhi ji ko conduct ki jaanch karne ke liye permission bhi di.",11.0,10,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+is incident ke liye city ke boys ne mere ko very highly regarded hain.,9.0,10,final_llama_matrix_hi_src,Hin-Matrix,final_llama_matrix_hi_src.csv,
+"iske atirikt, unhen gandhiji ko jaanch karne ki anumati bhi di.",11.0,10,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+yeh rashtron ke kootneetik sambandhon ke beech keerkiiri sabit ho sakti hai.,25.0,10,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+unhain asankhya business programs chalate hain jo different skills ke liye alag-alag duration ke hain.,4.0,10,final_mistral_baseline_hi_src,Hin-Matrix,final_mistral_baseline_hi_src.csv,
+woh aanee aanee kyaa skill ke liye alag-alag duration ke vocational programme chalate hain.,4.0,10,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"mere bolne mein raagadhar, jo pehle khafaa tha, abh sukh hai.",3.0,10,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+"bahut se rajan ne machh marne ki koshish ki, lekin unhe kamyaab nahi hua.",30.0,10,final_mistral_baseline_hi_src,Eng-Matrix,final_mistral_baseline_hi_src.csv,
+dhoondhne wali ekonoomi ki mandi aam aadmi ke samasya ko badha dega.,21.0,10,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+is English-Hindi English dictionary mein aap easily Hindi aur English words ka arth dhundh skte hain.,22.0,10,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+agar hum aaj kurbaani dete hain toh uska faida aane wali pehree ke milta hai.,15.0,10,final_mistral_ect_hi_src,Hin-Matrix,final_mistral_ect_hi_src.csv,
+woh aadhaar par skill ke alag-alag duration ke liye shikshan ka ek baarish karte hain.,4.0,10,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"jab tak disc insert hoga, data integrity test automatically start ho jayegi.",19.0,10,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"aur kyunki unka claim hai ki unhen gharibon ka voice hai, isliye unka voice zyada sunaya jaata hai.",1.0,10,final_mistral_ect_hi_src,Eng-Matrix,final_mistral_ect_hi_src.csv,
+"Rajinder Singh Beedi used to come and sit with him for घण्टे together, console him like a वीरा during his बीमारी, always sitting सिरहाने.",28.0,10,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+"my dear देशवासियो, it is कहा that शिक्षा is the only thing that बढ़ can.",24.0,10,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+aarthik depression ki lambi vaali chalne se aam aadmi ko bahut kathinaiyan deegi.,21.0,10,final_mistral_matrix_en_src,Eng-Matrix,final_mistral_matrix_en_src.csv,
+ye English Hindi Dictionary site as well Hindi aur English words ka meaning easily provide karti hai.,22.0,10,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+"Moreover, unheye Gandhi ko conduct check karne ka permission bhi de diya.",11.0,10,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
+ab yeh process ke sirf visual representations hi hain.,13.0,10,final_mistral_matrix_hi_src,Hin-Matrix,final_mistral_matrix_hi_src.csv,
