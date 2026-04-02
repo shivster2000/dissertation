@@ -62,29 +62,25 @@ class MLFAnalyser:
             lang2: stanza.Pipeline(lang2, processors='tokenize,pos,lemma,depparse', verbose=False)
         }
 
-        # Define content morpheme POS tags (can be from EL)
         self.content_pos_tags = ['NOUN', 'PROPN', 'VERB', 'ADJ', 'ADV', 'NUM']
 
-        # Define system morpheme dependency relations with EXTERNAL relations
-        # These MUST come from Matrix Language
         self.external_dep_relations = {
-            # Grammatical relations that cross constituent boundaries
-            'case',      # Case markers (relate NP to verb)
-            'aux',       # Auxiliaries (agree with subject, scope over VP)
-            'cop',       # Copulas (link subject and predicate)
-            'mark',      # Complementizers/subordinators (link clauses)
-            'cc',        # Coordinating conjunctions (link constituents)
-            'det',       # Determiners (some theories treat as external)
-            'clf',       # Classifiers
-            'discourse', # Discourse markers
+            'case',      
+            'aux',     
+            'cop',     
+            'mark',     
+            'cc',        
+            'det',       
+            'clf',      
+            'discourse', 
         }
 
         self.external_pos_tags = {
-            'ADP',   # Adpositions (prepositions/postpositions)
-            'AUX',   # Auxiliaries
-            'SCONJ', # Subordinating conjunctions
-            'CCONJ', # Coordinating conjunctions
-            'PART',  # Particles (often grammatical)
+            'ADP',   
+            'AUX',   
+            'SCONJ', 
+            'CCONJ', 
+            'PART',  
         }
 
     def tag_morphemes(self, sentence, lang):
